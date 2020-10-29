@@ -81,7 +81,7 @@ $ brew cask install chromedriver
 Before running test suite, start up chromedriver
 
 ```
-$ chomedriver
+$ chrFomedriver
 ```
 
 Then to run the integration tests, run:
